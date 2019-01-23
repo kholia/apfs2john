@@ -22,7 +22,7 @@ sudo apt install fuse libfuse-dev libicu-dev bzip2 libbz2-dev cmake gcc-c++ git 
 ```
 Clone the repository:
 ```
-git clone https://github.com/sgan81/apfs-fuse.git
+git clone https://github.com/kholia/apfs2john.git
 cd apfs-fuse
 git submodule init
 git submodule update
